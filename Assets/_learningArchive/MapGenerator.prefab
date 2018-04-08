@@ -79,8 +79,9 @@ MonoBehaviour:
   drawMode: 2
   terrainData: {fileID: 11400000, guid: 03c25c136b7d1fb4ea7dc7e56fd59494, type: 2}
   noiseData: {fileID: 11400000, guid: 781edf7a2e63cf84695d79c9d6759e4e, type: 2}
+  useFlatShading: 0
   editorPreviewLOD: 0
-  autoUpdate: 0
+  autoUpdate: 1
   regions:
   - name: Water
     height: 0.27
